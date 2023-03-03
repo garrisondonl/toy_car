@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parts_list_id: 1
+  vehicle_id: 1
+  raw_materials_id: 1
+  wood_block_size: MyString
+  axels_length: 9.99
+  axels_qty: 1
+  steering_wheel_dia: 9.99
+  steering_wheel_qty: 1
+  steering_wheel_pin_length: 9.99
+
+two:
+  parts_list_id: 1
+  vehicle_id: 1
+  raw_materials_id: 1
+  wood_block_size: MyString
+  axels_length: 9.99
+  axels_qty: 1
+  steering_wheel_dia: 9.99
+  steering_wheel_qty: 1
+  steering_wheel_pin_length: 9.99

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  raw_materials_id: 1
+  wood_block_size: MyString
+  wood_block_size_qty: 1
+  wheels_type_qty: 1
+  steering_wheel_type_qty: 1
+  axels_length_qty: 1
+  steering_wheel_type_qty: 1
+
+two:
+  raw_materials_id: 1
+  wood_block_size: MyString
+  wood_block_size_qty: 1
+  wheels_type_qty: 1
+  steering_wheel_type_qty: 1
+  axels_length_qty: 1
+  steering_wheel_type_qty: 1
